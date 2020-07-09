@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello! 初めまして 👋🏻👩🏻‍💻
+
+I'm a half-japanese/brazilian full-stack developer and solutions architect from São Paulo, Brazil.
+
+Currently working on serverless data-driven mobile & web apps.
 
 <!--
 **watanabethais/watanabethais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
